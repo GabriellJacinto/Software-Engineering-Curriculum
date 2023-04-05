@@ -1,2 +1,2 @@
 # Software-Engineering-Curriculum
-Projects' code for the FCC curriculum
+Projects' code for the FCC curriculum test
